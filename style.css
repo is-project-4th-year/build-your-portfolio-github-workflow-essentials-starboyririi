@@ -29,3 +29,18 @@
   text-align: center;
   padding: 4rem 2rem;
 }
+/* About Section */
+.about {
+  padding: 2rem;
+  background-color: #f4f4f4;
+  text-align: center;
+}
+
+.profile-pic {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: 1rem auto;
+  display: block;
+}
